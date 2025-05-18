@@ -1,0 +1,42 @@
+html,body{
+  margin: 0px;
+  padding: 0px;
+  background: black;
+}
+*{
+  color: white;
+}
+ .top-float{
+  width: max-content;
+  height: 200px;
+} 
+.main-body{
+  margin: 0 auto;
+  width: 600px;
+  height: 700px;
+}
+.button{
+  width: 60px;
+  height: 60px;
+}
+.light-btn{
+background: #444;
+border: none;
+border-radius: 4px;
+padding: 20px;
+margin: 2px;
+}
+.orange-btn{
+  background: rgb(228, 90, 32);
+  border: none;
+border-radius: 4px;
+padding: 20px;
+margin: 2px;
+}
+.dark-btn{
+  background: #333;
+  border: none;
+border-radius: 4px;
+padding: 20px;
+margin: 2px;
+}
